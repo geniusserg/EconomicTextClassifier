@@ -1,0 +1,9 @@
+,0,1,2,3
+0,SVC,BoW 1000,"{'C': 1, 'class_weight': 'balanced', 'kernel': 'linear'}",0.7421904609989574
+1,SVC,TfIdf 1000,"{'C': 1, 'class_weight': 'balanced', 'kernel': 'linear'}",0.745958183496714
+2,SVC,BoW 5000,"{'C': 1, 'class_weight': 'balanced', 'kernel': 'linear'}",0.8045042750781695
+3,SVC,TfIdf 5000,"{'C': 1, 'class_weight': 'balanced', 'kernel': 'linear'}",0.807723162898862
+4,RFC,BoW 1000,"{'class_weight': 'balanced', 'n_estimators': 200}",0.74054281760385
+5,RFC,TfIdf 1000,"{'class_weight': 'balanced', 'n_estimators': 200}",0.7407011583943716
+6,RFC,BoW 5000,"{'class_weight': 'balanced', 'n_estimators': 200}",0.7502734165459043
+7,RFC,TfIdf 5000,"{'class_weight': 'balanced', 'n_estimators': 200}",0.7433688404293123
